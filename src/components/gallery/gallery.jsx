@@ -16,7 +16,7 @@ function gallery() {
       <div className="gallery-container">
 
         <div className="car-card">
-          <img src="/public/car1.png" alt="BMW" />
+          <img src="car1.png" alt="BMW" />
 
           <div className="car-info">
             <h3>BMW M4</h3>
@@ -26,7 +26,7 @@ function gallery() {
         </div>
 
         <div className="car-card">
-          <img src="/public/car2.png" alt="Audi" />
+          <img src="car2.png" alt="Audi" />
 
           <div className="car-info">
             <h3>Audi A6</h3>
@@ -36,7 +36,7 @@ function gallery() {
         </div>
 
         <div className="car-card">
-          <img src="/public/car3.png" alt="Mercedes" />
+          <img src="car3.png" alt="Mercedes" />
 
           <div className="car-info">
             <h3>Mercedes C-Class</h3>
@@ -46,7 +46,7 @@ function gallery() {
         </div>
 
         <div className="car-card">
-          <img src="/public/car4.png" alt="Range Rover" />
+          <img src="car4.png" alt="Range Rover" />
 
           <div className="car-info">
             <h3>Range Rover</h3>
