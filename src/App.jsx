@@ -6,6 +6,7 @@ import Gallery from "./components/gallery/gallery";
 import Reviews from "./components/reviews/reviews";
 import About from "./components/about/about";
 import Contact from "./components/contact/contact";
+import Footer from "./components/footer/footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
          <Reviews />
          <About/>
          <Contact/>
+         <Footer />
       </main>
     </>
   );

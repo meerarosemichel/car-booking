@@ -19,7 +19,7 @@ function Contact() {
 
           <div className="info-box">
             <h3>📍 Address</h3>
-            <p>123 Car Street, Chennai, Tamil Nadu, India</p>
+            <p>123 Car Street, Coimbatore, Tamil Nadu, India</p>
           </div>
 
           <div className="info-box">
