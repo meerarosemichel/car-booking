@@ -30,7 +30,7 @@ function Reviews() {
           </div>
 
           <div className="customer">
-            <img src="/public/user1.png" alt="Customer" />
+            <img src="/public/images/user1.png" alt="Customer" />
 
             <div>
               <h3>Rahul Sharma</h3>
@@ -54,7 +54,7 @@ function Reviews() {
           </div>
 
           <div className="customer">
-            <img src="/public/user2.png" alt="Customer" />
+            <img src="/public/images/user2.png" alt="Customer" />
 
             <div>
               <h3>Priya Verma</h3>
@@ -78,7 +78,7 @@ function Reviews() {
           </div>
 
           <div className="customer">
-            <img src="/public/user3.png" alt="Customer" />
+            <img src="/public/images/user3.png" alt="Customer" />
 
             <div>
               <h3>Arjun Patel</h3>
@@ -101,7 +101,7 @@ function Reviews() {
           </div>
 
           <div className="customer">
-            <img src="/public/user4.png" alt="Customer" />
+            <img src="/public/images/user4.png" alt="Customer" />
 
             <div>
               <h3>Meera </h3>

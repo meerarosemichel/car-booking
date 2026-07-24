@@ -43,7 +43,7 @@ function Home() {
       </div>
 
       <div className="home-image">
-        <img src="/hero-car.png" alt="Luxury Car" />
+        <img src="/public/images/hero-car.png" alt="Luxury Car" />
       </div>
 
     </section>
